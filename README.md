@@ -55,6 +55,4 @@
   </a>
 </div>
 
-## https://docs.google.com/document/d/1OmXhZhBTC6ND8a7pVsKj0WETZL_ftuL9z1rMtAkP88w/edit?usp=sharing
-
 ###
