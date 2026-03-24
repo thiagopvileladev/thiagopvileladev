@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, eu o Thiago, estudante da ciência da computação no UniCEUB ( 3º Semestre ), e venho aprendendo a lidar com o front - end e o back - end, com linguagens como python, node.js e java.</p>
+<p align="left">Olá, eu sou o Thiago, estudante da ciência da computação no UniCEUB ( 3º Semestre ), e venho aprendendo a lidar com o front - end e o back - end, com linguagens como python, node.js e java.</p>
 
 ###
 
