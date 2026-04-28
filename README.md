@@ -1,58 +1,43 @@
-<h1 align="left">Olá, eu sou o Thiago! 💻</h1>
-
-###
-
-<p align="left">Olá, eu sou o Thiago, estudante da ciência da computação no UniCEUB ( 3º Semestre ), e venho aprendendo a lidar com o front - end e o back - end, com linguagens como python, node.js e java.</p>
-
-###
-
-<h2 align="left">📊 Áreas de Interesse :</h2>
-
-###
-
-<p align="left">- Desenvolvimento Back-End<br>- Desenvolvimento Front-End<br>- Análise de dados<br>- Desenvolvimento de Softwares</p>
-
-###
-
-<h2 align="left">Tecnologias que uso no meu dia a dia :</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Olá!%20Sou%20o%20Thiago%20Vilela%20&fontSize=50&fontAlignY=38&desc=Estudante%20de%20Ciência%20da%20Computação%20%7C%20&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
-###
+### Sobre mim
 
-<h2 align="left">Contato :</h2>
+Sou estudante de **Ciência da Computação** no [Centro Universitário de Brasília (UniCEUB)](https://www.uniceub.br/), apaixonado por inovação e soluções computacionais que geram impacto real. 
 
-###
+*  Olá, eu sou o Thiago, estudante da ciência da computação no UniCEUB ( 3º Semestre ), e venho aprendendo a lidar com o front - end e o back - end, com linguagens como python, node.js e java.
+* **O que estou aprendendo:** Focado em aprimorar minhas habilidades em desenvolvimento de software e algoritmos.
+  
+* **Áreas de interesse:**
 
-<p align="left">Telefone : (61) 98379-1418</p>
+* **Desenvolvimento Back-End**
+* **Desenvolvimento Front-End**
+* **Desenvolvimento de Softwares**
 
-###
+<br>
 
-<div align="left">
-  <a href="https://www.instagram.com/thiagopvilela?igsh=eWI3aTUxZzJtamll" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1800&color=58A6FF&center=true&vCenter=true&width=435&lines=LINGUAGENS+E+TECNOLOGIAS+QUE+UTILIZO!" />
   </a>
-  <a href="https://www.linkedin.com/in/thiago-paranaiba-vilela-a4b8ab29a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</p>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,react,java,postgresql,py,git,github,vercel" />
   </a>
 </div>
 
-###
+<br><br>
+
+---
+
+
+<br>
+
+<div align="center">
+  <a href="https://instagram.com/thiagopvilela" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
+  <a href="e-mailto:thiagopvilelaa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/thiago-paranaiba-vilela-a4b8ab29a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
+</div>
